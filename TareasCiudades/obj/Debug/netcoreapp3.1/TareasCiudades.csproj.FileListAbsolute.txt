@@ -1,0 +1,13 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\bin\Debug\netcoreapp3.1\TareasCiudades.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\bin\Debug\netcoreapp3.1\TareasCiudades.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\bin\Debug\netcoreapp3.1\TareasCiudades.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\bin\Debug\netcoreapp3.1\TareasCiudades.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\bin\Debug\netcoreapp3.1\TareasCiudades.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\bin\Debug\netcoreapp3.1\TareasCiudades.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion6-NombresCiudades\TareasCiudades\obj\Debug\netcoreapp3.1\TareasCiudades.genruntimeconfig.cache
